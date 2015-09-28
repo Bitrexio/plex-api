@@ -1,4 +1,6 @@
-#summary Plex Web API Overview
+*This is a work in progress, I will have the whole API soon if it hasn't been released yet.*
+
+summary Plex Web API Overview
 
 = Introduction =
 
